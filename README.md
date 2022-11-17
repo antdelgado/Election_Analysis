@@ -31,7 +31,7 @@ Using the data from the election audit, we can extrapolate where voters were mos
 ### Election-Audit Results
 -	How many votes were cast in this congressional election?
 A total of 369, 711 votes were cast in this election.
--	Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+-	Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct
 Jefferson County accounted for 38, 855 votes (approximately 10.5% of the total votes) in the election. Denver County accounted for 306, 055 votes (approximately 82.8% of the total votes) in the election. Arapahoe County accounted for 24, 801 votes (approximately 6.7% of the total votes) in the election.
 -	Which county had the largest number of votes?
 Denver County had the most votes cast in this election.
