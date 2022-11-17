@@ -48,3 +48,14 @@ Diana DeGette won the election. They received 272,892 votes. That’s 73.8% of v
 If this code were to be reused for elections to come, one could forecast the popularity of other candidates. In addition, the code can also track which counties are the most politically active and bring the most voter turnout each election cycle.
 
 ## Challenge Summary
+![Vote Count](EA_VoteCount.JPG)
+
+*This is the code responsible for the counting of the votes.*
+
+![Candidate Data Analysis](EA_CaPercent.JPG)
+
+*This is the code responsible for the analysis of candidate data.*
+
+![County Data Analysis](Ea_CoPercent.JPG)
+
+*This is the code responsible for the analysis of county data.*
