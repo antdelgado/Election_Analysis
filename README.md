@@ -46,3 +46,5 @@ Charles Casper Stockham received 85,213 votes, or about 23.0% of the vote. Diana
 Diana DeGette won the election. They received 272,892 votes. That’s 73.8% of votes cast.
 ### Election-Audit Summary
 If this code were to be reused for elections to come, one could forecast the popularity of other candidates. In addition, the code can also track which counties are the most politically active and bring the most voter turnout each election cycle.
+
+## Challenge Summary
